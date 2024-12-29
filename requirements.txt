@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain_experimental
+langchain-openai
+openai
+streamlit
+tiktoken
+python-dotenv
+pinecone-client
+duckduckgo_search
+
+-e .
